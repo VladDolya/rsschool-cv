@@ -1,4 +1,4 @@
-![Photo](D:\rsschool-cv\my-photo2.png "my photo")
+![Photo](/descktop/rsschool-cv/my-photo.jpg  "my photo")
 # Vladislav Dolya 
 ## Contatcs 
 1. *Mail:* devdolya@google.com
