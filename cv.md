@@ -11,7 +11,7 @@
 
 I ***graduated*** from higher education with a degree in Physical Education and Life Safety. At the moment I work in the committee for physical culture in the Leningrad region. My path and my goal is to change my profession in a year or two.
 
-At school, I did not like to study English, so I can write this text with errors. And with the study of the profession of web-developer i realized that English is a must. And at the moment I'm studying ***web-developer*** and ***English****** at the same time. Difficult but what can you do.
+At school, I did not like to study English, so I can write this text with errors. And with the study of the profession of web-developer i realized that English is a must. And at the moment I'm studying ***web-developer*** and ***English*** at the same time. Difficult but what can you do.
 
 #### My skills and courses
 - Graduated higher education
