@@ -1,4 +1,4 @@
-![Photo](rsschool-cv/my-photo.jpg)
+![Photo](rsschool-cv/my-photo2.png)
 # Vladislav Dolya 
 ## Contatcs 
 1. *Mail:* devdolya@google.com
@@ -22,7 +22,8 @@ At school, I did not like to study English, so I can write this text with errors
 - I perceive information quickly and clearly
 
 
-// finish fix photo and complete Pull-Request
+
+
 
 
 
