@@ -21,9 +21,3 @@ At school, I did not like to study English, so I can write this text with errors
 - Good at computers 
 - I perceive information quickly and clearly
 
-
-
-
-
-
-
